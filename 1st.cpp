@@ -4,7 +4,7 @@ InterMem im;
 
 int main()
 {
-	freopen("pi.data", "r", stdin);
+	//freopen("pi.data", "r", stdin);
 	im.readin();
 
 	int cnt = 1;
